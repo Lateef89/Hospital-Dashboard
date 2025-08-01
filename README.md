@@ -28,4 +28,4 @@ Provides summary dashboards for specialty groups.
 - <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Op_WL%202021.csv"> 2021_OutPatient_Dataset</a>
 
 # Dashboard
-- <a href=" https://github.com/Lateef89/Hospital-Dashboard/blob/main/Hospital%20dashboard.pdf"> Dashboard</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Hospital%20dashboard.pdf"> View_Dashboard</a>
