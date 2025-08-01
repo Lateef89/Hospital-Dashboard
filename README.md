@@ -19,3 +19,13 @@ Provides summary dashboards for specialty groups.
 
 ## Dataset used
 - <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/IN_WL%202018.csv"> 2018_InPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/IN_WL%202019.csv"> 2019_InPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/IN_WL%202020.csv"> 2020_InPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/IN_WL%202021.csv"> 2021_InPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Op_WL%202018.csv"> 2018_OutPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Op_WL%202019.csv"> 2019_OutPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Op_WL%202020.csv"> 2020_OutPatient_Dataset</a>
+- <a href="https://github.com/Lateef89/Hospital-Dashboard/blob/main/Op_WL%202021.csv"> 2021_OutPatient_Dataset</a>
+
+# Dashboard
+- <a href=" https://github.com/Lateef89/Hospital-Dashboard/blob/main/Hospital%20dashboard.pdf"> Dashboard</a>
